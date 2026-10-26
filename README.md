@@ -1,0 +1,1 @@
+This repository contains Linux shell scripts for a Holberton project.
