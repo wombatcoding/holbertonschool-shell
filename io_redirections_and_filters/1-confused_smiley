@@ -1,2 +1,2 @@
 #!/bin/bash
-GIVE ME UNICODE 00D4 YOU SODS
+echo '"(Ôo)'\'''
